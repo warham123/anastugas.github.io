@@ -1,0 +1,78 @@
+body{
+    background-color:rgba(70, 70, 70, 0.815);
+    background-image: url(https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/07/shutterstock_746328118.jpg?w=750);
+}
+header{
+    margin-top: -100px;
+    font-size: 80px;
+    background-color: rgb(40, 40, 41);
+    height: 160px;
+    border-style: solid;
+    border-color: azure;
+    padding-bottom: 80px;
+}
+main{
+    margin-top: -100px;
+    font-size: 20px;
+}
+.button{
+    color:rgb(241, 247, 247)
+    
+}
+.tajri{
+    color: rgb(238, 163, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.razak{
+    color: rgb(245, 236, 236);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hello{
+    font-size: 20px;
+    margin-top: -110px;
+}
+.welcome{
+    font-size: 20px;
+    color:rgb(241, 247, 247);
+}
+.kontak{
+    color:rgb(241, 247, 247);
+    margin-top: 50px;
+    margin-left: 45px;
+}
+.iden{
+    color:rgb(241, 247, 247);
+    margin-top: 110px;
+    margin-left: 45px;
+}
+.my{
+    background-image: url(https://www.hautelookcdn.com/products/855/large/4590754.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 200px;
+}
+.sosmed{
+    margin-left: 20px;
+}
+.img{
+    margin-left: 20px;
+}
+.see{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+button{
+    background-color: rgb(73, 73, 73);
+    color:darkorange;
+}
+.unduh{
+    margin-left: 45px;
+}
+.news {
+    color: darkorange;
+}
+.artikel {
+    color: floralwhite;
+}
+
+
